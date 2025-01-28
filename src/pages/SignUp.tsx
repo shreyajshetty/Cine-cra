@@ -92,7 +92,7 @@ const SignUp = () => {
               color="blue.300"
               _hover={{ textDecor: "underline", color: "orange.400" }}
             >
-              <NavLink to="signin">Sign in</NavLink>
+              <NavLink to="signin/">Sign in</NavLink>
             </Text>
           </HStack>
         </CardFooter>
@@ -101,4 +101,4 @@ const SignUp = () => {
   );
 };
 
-export default SignUp
+export default SignUp;

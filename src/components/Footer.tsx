@@ -14,35 +14,20 @@ const Footer = () => {
 
       <HStack mt="10px" justify="center" align="center" gap="10px">
         <Img
-          src="../img/twitter.png"
+          src="/img/twitter.png"
           width="50px"
           height="50px"
           borderRadius="50%"
         />
+        <Img src="/img/fb.png" width="50px" height="50px" borderRadius="50%" />
         <Img
-          src="../img/fb.png"
-          width="50px"
-          height="50px"
-          borderRadius="50%"
-        />
-        <Img
-          src="../img/tiktok.png"
+          src="/img/tiktok.png"
           width="50px"
           height="50px"
           borderRadius="30%"
         />
-        <Img
-          src="../img/ig.png"
-          width="50px"
-          height="50px"
-          borderRadius="50%"
-        />
-        <Img
-          src="../img/yt.png"
-          width="50px"
-          height="50px"
-          borderRadius="50%"
-        />
+        <Img src="/img/ig.png" width="50px" height="50px" borderRadius="50%" />
+        <Img src="/img/yt.png" width="50px" height="50px" borderRadius="50%" />
       </HStack>
       <HStack justify="center" gap="20px">
         <Text>
